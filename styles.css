@@ -21,6 +21,7 @@ nav ul li:hover {
 }
 body {
     background-color: #f8e8a0;
+    margin-left:20px;
 }
 .logo {
     width: auto;
@@ -68,6 +69,25 @@ h1 {
 .about p {
     font-size: 35px;
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     font-weight: bold;
+}
+.head2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.car-image {
+    border: 5px solid white; /* Add a white border around the car images */
+    border-radius: 10px; 
+    width: auto;
+    height: 500px
+}
+.imagetext {
+    font-size: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 0px;    
+    margin-bottom: 0px;
 }
