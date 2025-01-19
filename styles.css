@@ -97,11 +97,6 @@ h1 {
     flex-wrap: wrap; /* Allow items to wrap to the next line */
     gap: 20px; /* Add space between the items */
 }
-
-.car {
-    flex: 1 1 calc(50% - 20px); /* Each item takes up 50% of the container width minus the gap */
-    box-sizing: border-box; /* Include padding and border in the element's total width and height */
-}
 footer {
     text-align: center;
     background-color: #0f0e0e;
