@@ -13,6 +13,7 @@ nav ul {
 nav ul li {
     color: white;
     font-size: 2rem;
+    font-weight: bold;
 }
 nav ul li:hover {
     color: #e70909;
@@ -20,4 +21,20 @@ nav ul li:hover {
 }
 body {
     background-color: #f8e8a0;
+}
+img {
+    width: auto;
+    height: 130px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.intro {
+    display: flex;
+    justify-content: relative;
+    align-items: relative;
+    flex-direction: row;
+    margin-top: 20px;
+}
+h1 p{
+    flex:right;
 }
