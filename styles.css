@@ -50,5 +50,12 @@ h1 {
     margin-left: 300px;
     font-size: 40px;
     font-weight: bold;
-
+}
+.divider {
+    border: none;
+    height: 2px; 
+    margin: 0px 0; 
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 2px solid white;
 }
