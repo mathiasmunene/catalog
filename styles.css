@@ -97,24 +97,24 @@ h1 {
     flex-wrap: wrap; /* Allow items to wrap to the next line */
     gap: 20px; /* Add space between the items */
 }
-nav {
+.contac nav {
     display: flex;
     justify-content:right;
-    background-color: #000000;
+    background-color: #f8e8a0;
     padding: 0rem;
 }
-nav ul {
+.contac nav ul {
     list-style: none;
     display: flex;
     gap: 2rem;
-    margin-right: 20px;
+    margin-right: 0px;
 }
-nav ul li {
-    color: white;
-    font-size: 2rem;
+.contac nav ul li {
+    color: rgb(7, 0, 0);
+    font-size: 30px;
     font-weight: bold;
 }
-nav ul li:hover {
+.contac nav ul li:hover {
     color: #e70909;
     cursor: pointer;
 }
