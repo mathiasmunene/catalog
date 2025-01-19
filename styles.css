@@ -59,3 +59,15 @@ h1 {
     margin-bottom: 0px;
     border-bottom: 2px solid white;
 }
+.about h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.about p {
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
