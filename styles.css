@@ -102,3 +102,10 @@ h1 {
     flex: 1 1 calc(50% - 20px); /* Each item takes up 50% of the container width minus the gap */
     box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
+footer {
+    text-align: center;
+    background-color: #0f0e0e;
+    color: white;
+    position: relative;
+    font-size: 25px;   
+}
