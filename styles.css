@@ -79,10 +79,11 @@ h1 {
     margin-bottom: 10px;
 }
 .car-image {
-    border: 5px solid white; /* Add a white border around the car images */
-    border-radius: 10px; 
+    border: 5px solid white; 
+    border-radius: 20px; 
+    border-width: 8px;
     width: auto;
-    height: 500px
+    height: 600px
 }
 .imagetext {
     font-size: 20px;
@@ -90,4 +91,14 @@ h1 {
     font-size: 30px;
     margin-top: 0px;    
     margin-bottom: 0px;
+}
+.catalogue {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    gap: 20px; /* Add space between the items */
+}
+
+.car {
+    flex: 1 1 calc(50% - 20px); /* Each item takes up 50% of the container width minus the gap */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
