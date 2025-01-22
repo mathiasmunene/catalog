@@ -1,18 +1,36 @@
-## Project name: 
-Abnasser Motors Website
+# Abnasser Motors Website
 
-## Author: 
+## Author
 Mathias Munene Martin
 
-## Decription:  
-Photos of cars used in the creation of new website for Abnasser Motors for their new Toyota car imports. Make year 2025.
+## Description
+This project showcases the new website for Abnasser Motors, featuring their latest Toyota car imports for the year 2025. The website includes photos of the cars, detailed descriptions, and a contact form for inquiries.
 
-## link to live site: https://mathiasmunene.github.io/catalog/
+## Features
+- Photo gallery of Toyota car imports
+- Detailed descriptions of each car
+- Contact form for inquiries
+- Responsive design
 
-## link to the original design on figma: http://figma.com/board/1l1x4zwrxmd9mjHYxLQZ5Z/TOYOTA-CATALOGUE?node-id=3-832&t=7z2IrZs0I3EieU9A-0
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-![Alt text](./images/Screenshot%20from%202025-01-22%2010-54-56.png)
+## Live Site
+Check out the live site [here](https://mathiasmunene.github.io/catalog/).
 
-![Alt text](./images/Screenshot%20from%202025-01-22%2010-55-32.png)
+## Original Design
+You can view the original design on Figma [here](http://figma.com/board/1l1x4zwrxmd9mjHYxLQZ5Z/TOYOTA-CATALOGUE?node-id=3-832&t=7z2IrZs0I3EieU9A-0).
 
-## Copyright choice: MIT
+## Screenshots
+![Screenshot 1](./images/Screenshot%20from%202025-01-22%2010-54-56.png)
+![Screenshot 2](./images/Screenshot%20from%202025-01-22%2010-55-32.png)
+
+## Usage
+- Browse the photo gallery to view the latest Toyota car imports.
+- Use the contact form to send inquiries.
+
+## License
+This project is licensed under the MIT License.
+
